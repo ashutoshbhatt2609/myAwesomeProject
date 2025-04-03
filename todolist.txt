@@ -2,3 +2,4 @@ hi my name is ashutosh
 hlo sourcetree
 merging branches with cmd - done
 merging branches with gui
+resolves conflict
