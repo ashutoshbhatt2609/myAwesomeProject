@@ -7,4 +7,5 @@ squash commits- done
 
 resolves conflict- Done
 
+add remote repository
 
