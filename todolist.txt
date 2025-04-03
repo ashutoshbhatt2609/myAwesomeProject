@@ -5,4 +5,5 @@ merging branches with cmd - done
 merging branches with gui -done
 squash commits- done 
 
-resolves conflict
+resolves conflict- Done
+
