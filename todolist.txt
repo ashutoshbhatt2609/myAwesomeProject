@@ -1,2 +1,3 @@
 hi my name is ashutosh 
 hlo sourcetree
+merging branches with cmd and gui
