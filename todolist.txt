@@ -1,9 +1,10 @@
 hi my name is ashutosh 
 hlo sourcetree
 merging branches with cmd - done
-<<<<<<< HEAD
+
 merging branches with gui -done
 squash commits- done 
 
 resolves conflict- Done
+
 
