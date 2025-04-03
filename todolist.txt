@@ -10,3 +10,4 @@ resolves conflict- Done
 add remote repository-Done
 push,pull,commit
 
+git remote update
